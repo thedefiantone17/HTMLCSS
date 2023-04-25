@@ -53,4 +53,4 @@ Some HTML elements have no content (like the <br> element). These elements are c
 
 ![HTML Structure](./images/htmlStructure.png)
 
-only the content within the **<body>** tag will be displayed in a browser and content inside the **<title>** tag will be shown in the webpage's title bar.
+only the content within the **`<body>`** tag will be displayed in a browser and content inside the **`<title>`** tag will be shown in the webpage's title bar.
