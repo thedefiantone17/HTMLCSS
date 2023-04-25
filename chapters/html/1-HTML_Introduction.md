@@ -25,14 +25,14 @@
 </html>
 ```
 
-> Elements in the boiler plate:
-* "<!DOCTYPE html>" : defines that this document is an HTML5 document.
-* "<html>" : it is the root element of an HTML page.
-* "<head>" : contains meta information about the HTML page.
-* "<title>" : specifies a title for the HTML page.
-* "<body>" : defines the document's body, and is a container for all the visible contents, such as headings, etc.
-* "<h1>" : defines a large heading.
-* "<p>" : defines a paragraph.
+ Elements in the boiler plate:
+ "<!DOCTYPE html>" : defines that this document is an HTML5 document.
+ "<html>" : it is the root element of an HTML page.
+ "<head>" : contains meta information about the HTML page.
+ "<title>" : specifies a title for the HTML page.
+ "<body>" : defines the document's body, and is a container for all the visible contents, such as headings, etc.
+ "<h1>" : defines a large heading.
+ "<p>" : defines a paragraph.
 
 ## HTML ELEMENTS
 
