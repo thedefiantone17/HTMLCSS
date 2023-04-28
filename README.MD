@@ -8,8 +8,12 @@ Link of the Chapters:
 
 | week   | chapter             | Link |
 |--------|---------------------|------|
-| Week 1 | HTML Introduction   | [Link](./chapters/html/1-HTML_Introduction.md) |
-|        | HTML basic Elements | [Link](./chapters/html/2-HTML_BasicElements.md) |
+| Week 1 | 1. HTML Introduction   | [Link](./chapters/html/1-HTML_Introduction.md) |
+|        | 2. HTML basic Elements | [Link](./chapters/html/2-HTML_BasicElements.md) |
+|        | 3. HTML Headings, Paragraphs & other tags | [Link](./chapters/html/3-Heading%2CParagraph%26otherTags.md) |
+|        | 4. HTML Styles & Formatting | [Link](./chapters/html/4-styles%26formatting.md) |
+|        | 5. HTML Quotations & Comments | [Link](./chapters/html/5-Quotations%26comments.md) |
+|        | 6. Color(to be updated)                    | [Link]() |
 |        |                     | [Link]() |
 
 
