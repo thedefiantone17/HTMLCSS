@@ -5,7 +5,7 @@
 
 Search engines use the headings to index the structure and content of your web pages. Users often skim a page by its headings, so, it is important to use headings to show the document structure.
 
-**Note:** Html Headings are used for headings only and not for decorations(like big, bolde, etc.). Each heading has a default size, However, heading size can be specified with `<style>` attribute using `font-size:` property.
+**Note:** Html Headings are used for headings only and not for decorations(like big, bold, etc.). Each heading has a default size, However, heading size can be specified with `<style>` attribute using `font-size:` property.
 
 **Example:**
 

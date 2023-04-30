@@ -3,7 +3,7 @@
 
 ## HTML Styles
 
-A `style=""` attribute in an element is used to add styles to an elementlike font, size, color, etc.
+A `style=""` attribute in an element is used to add styles to an element like font, size, color, etc.
 
 **syntax**
 

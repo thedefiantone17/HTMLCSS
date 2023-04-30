@@ -13,7 +13,9 @@ Link of the Chapters:
 |        | 3. HTML Headings, Paragraphs & other tags | [Link](./chapters/html/3-Heading%2CParagraph%26otherTags.md) |
 |        | 4. HTML Styles & Formatting | [Link](./chapters/html/4-styles%26formatting.md) |
 |        | 5. HTML Quotations & Comments | [Link](./chapters/html/5-Quotations%26comments.md) |
-|        | 6. Color(to be updated)                    | [Link]() |
+|        | 6. Color | [Link](./chapters/html/6-Colors.md) |
+|        | 7. HTML: CSS | [Link](./chapters/html/7-HTMLStyling.md) |
+|        |                     | [Link]() |
 |        |                     | [Link]() |
 
 

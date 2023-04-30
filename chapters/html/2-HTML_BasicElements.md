@@ -16,7 +16,7 @@ the basic elements in a HTML document are:
 
 
 ## Headings 
-HTML headings are defined with `<h1>` to `<h6>` tags, where `<h1>` tag determines the most important Heading and `<h6>` tag dwfinws the least important Heading.
+HTML headings are defined with `<h1>` to `<h6>` tags, where `<h1>` tag determines the most important Heading and `<h6>` tag defines the least important Heading.
 
 Example:
 
