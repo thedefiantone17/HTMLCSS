@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <!-- # link css file | external -->
-    <!-- <link rel="stylesheet" href="../images/styles.css"> -->
+    <link rel="stylesheet" href="../images/styles.css">
     <!-- # internal css -->
     <style>
         /* p{
@@ -15,42 +15,65 @@
             color: burlywood;
         
         } */
-        a:link{
+        a:link {
             background-color: pink;
             color: aliceblue;
             text-decoration: none;
         }
-        a:visited{
+
+        a:visited {
             background-color: transparent;
             color: pink;
             text-decoration: none;
         }
-        a:hover{
+
+        a:hover {
             background-color: pink;
             color: aliceblue;
             text-decoration: none;
         }
-        a:active{
+
+        a:active {
             background-color: pink;
             color: aliceblue;
             text-decoration: none;
         }
+
+        p {
+            background-color: red;
+            color: aliceblue;
+            text-align: center;
+            justify-content: center;
+        }
+
+        iframe{
+            width: 600px;
+            height: 500px;
+        }
+        
     </style>
 </head>
 
 <body>
+    <button>
+        <a href="#last">jump to last</a>
+    </button>
     <!-- # inline css -->
     <!-- <p>this is a paragraph.</p>-->
+    <img src="https://imgd.aeplcdn.com/1200x900/n/cw/ec/145875/hayabusa-right-front-three-quarter.jpeg?isig=0"
+        alt="haybusa" width="500" height="400" style="">
+    <!-- <button><a href="https://www.google.com">google karle</a></button> -->
     <p>this is a paragraph1.</p>
     <pre>this is a 
         paragraph1.</pre>
-    <p style="background-color:red; text-align: center;">click here for savita bhabhi</p>
-    <p style="background-color:red; text-align: left;">click here for savita bhabhi</p>
-    <p style="background-color:red; text-align: right;">click here for savita bhabhi</p>
+    <p>click here for savita bhabhi</p>
+    <p>click here for savita bhabhi</p>
+    <p>click here for savita bhabhi</p>
     <p>this is a paragraph2.</p>
-    <h1>This is heading 1</h1>
+    <h1>This is <del>paragraph</del> <ins>heading</ins> 1</h1>
     <h2>This is heading 2</h2>
     <h3>This is heading 3</h3>
+    <button><a href="https://www.google.com" target="_self">googlw</a></button>
     <h4>This is heading 3</h4>
     <hr>
     <img src="#" alt="scoland yard images" width="500" height="250">
@@ -65,13 +88,18 @@
         style="padding: 10px; border: 2px solid #000000; background-color: red; color: aliceblue; width: 500px;height: 300px; margin: 20px 0 20px 0;">
         <h5>This is heading 3</h5>
         <h6>This is heading 3</h6>
+        <button>
+            <a href="mailto:aniket.sharma1799@gmail.com">mail me</a>
+        </button>
 
     </div>
-    
-        
-    <button >
-        <a href="tel:9876543210">call me!</a>
+
+    <iframe src="./example2.html" frameborder="0"></iframe>
+    <button id="last">
+
+        <a href="https://www.google.com" target="blank"><img src="https://imgd.aeplcdn.com/1200x900/n/cw/ec/145875/hayabusa-right-front-three-quarter.jpeg?isig=0" alt="bike"></a>
     </button>
+
 </body>
 
 </html>

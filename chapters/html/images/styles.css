@@ -1,4 +1,25 @@
+body{
+    background-color: crimson;
+    padding: 20px;
+    margin: 0;
+    /* display: flexbox; */
+}
+
 p{
     background-color: black;
     color: aliceblue;
+}
+
+img{
+    border: 20px solid;
+    padding: 20px;
+}
+
+h1{
+    border: 20px solid;
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    margin: auto;
+    justify-content: center;   
 }
