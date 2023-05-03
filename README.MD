@@ -14,7 +14,7 @@ Link of the Chapters:
 |        | 4. HTML Styles & Formatting | [Link](./chapters/html/4-styles%26formatting.md) |
 |        | 5. HTML Quotations & Comments | [Link](./chapters/html/5-Quotations%26comments.md) |
 |        | 6. Color | [Link](./chapters/html/6-Colors.md) |
-|        | 7. HTML: CSS | [Link](./chapters/html/7-HTMLStyling.md) |
+| Week 2 | 7. HTML: CSS | [Link](./chapters/html/7-HTMLStyling.md) |
 |        | 8. HTML linking attributes| [Link](./chapters/html/8-HTMLLinkingAttributes.md) |
 |        | 9. HTML Table | [Link](./chapters/html/9-HTML_Table) |
 |        | | [Link]() |
