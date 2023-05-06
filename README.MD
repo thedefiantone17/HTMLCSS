@@ -17,7 +17,7 @@ Link of the Chapters:
 | Week 2 | 7. HTML: CSS | [Link](./chapters/html/7-HTMLStyling.md) |
 |        | 8. HTML linking attributes| [Link](./chapters/html/8-HTMLLinkingAttributes.md) |
 |        | 9. HTML Table | [Link](./chapters/html/9-HTML_Table.md) |
-|        | | [Link]() |
+|        |10. HTML Inline and Block elements| [Link](./chapters/html/10-HTML_blockInline.md) |
 |        | | [Link]() |
 |        | | [Link]() |
 |        | | [Link]() |
