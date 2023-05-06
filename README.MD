@@ -16,7 +16,7 @@ Link of the Chapters:
 |        | 6. Color | [Link](./chapters/html/6-Colors.md) |
 | Week 2 | 7. HTML: CSS | [Link](./chapters/html/7-HTMLStyling.md) |
 |        | 8. HTML linking attributes| [Link](./chapters/html/8-HTMLLinkingAttributes.md) |
-|        | 9. HTML Table | [Link](./chapters/html/9-HTML_Table) |
+|        | 9. HTML Table | [Link](./chapters/html/9-HTML_Table.md) |
 |        | | [Link]() |
 |        | | [Link]() |
 |        | | [Link]() |
